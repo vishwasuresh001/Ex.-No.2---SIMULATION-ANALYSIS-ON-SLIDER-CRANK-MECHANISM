@@ -44,8 +44,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-
-[text](<../../../Downloads/vishwa (2)>)
+![alt text](<vishwa (2).jpeg>)
 ### Name:VISHWA S
 ### Register Number: 25012636
 
